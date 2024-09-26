@@ -1,16 +1,17 @@
-# Linux-IPC-Message-Queues
+# Ex no-4 Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
+### Date:
 ### Name: Loshini.G
 ### Register Number: 212223220051
 ### Department:IT
 
 
 
-# AIM:
+## AIM:
 To write a C program that receives a message from message queue and display them
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -23,14 +24,14 @@ Write the C Program using Linux message queues API
 ### Step 3:
 
 Execute the C Program for the desired output. 
-# PROGRAM:
-```
-Developed By:Loshini.G
-Reg No:212223220051
-```
+## PROGRAM:
+
+#### Developed By:Loshini.G
+#### Reg No:212223220051
+
 
 ## C program that receives a message from message queue and display them
-```
+```c
 // writer process
 #include <stdio.h> 
 #include <sys/ipc.h> 
